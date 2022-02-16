@@ -1,5 +1,5 @@
 # NGO-Foundation
-# GRIPSEPTEMBER21 
+# GRIPFEBRUARY22 
  Intern @ The Spark Foundation  
 # PAYMENT GATEWAY INTEGRATION 
  I have created the Payment Gateway integration website as an intern for the Sparks Foundation.
